@@ -2,7 +2,8 @@ Will will Post all Mod Changes as we go here.. Feedback welcome, please contact 
 
 Dayz Revolt 1.0.0
 
-
+/*
+New
 Merc Recruitment Zones Based on Humanity, Lvl, and Currency - Locations to be disclosed
 New Exp/Lvl Up Achievement System
 Currency  Send/Receive/Bank system
@@ -25,3 +26,11 @@ Modified Some Weapon mags
 98% New Weapons found at HbZ Custom COOP Missions, Ai Missions, and AI Bandits to prevent Barrack campers.
 Modified Vehicles - to increase Player, Magazine, Weapon, and Backpack Storage to increase Realism.
 Addons/Scripts info at http://www.hobuttz.com/addonsscripts-info/
+*/
+
+/*
+Fixed
+
+Tent and Stash Dupe.
+
+*/
