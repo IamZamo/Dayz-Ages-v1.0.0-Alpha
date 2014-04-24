@@ -4,15 +4,25 @@ Dayz Revolt 1.0.0
 
 /*
 New
-Merc Recruitment Zones Based on Humanity, Lvl, and Currency - Locations to be disclosed
+
+4 new modied Shotguns
+CIM Combat Interface Module
+
+*/
+/*
+Working
+
+Merc Recruitment Zones - Locations to be disclosed
 New Exp/Lvl Up Achievement System
 Currency  Send/Receive/Bank system
 Weapon & Vehicle Dealers
 Added New Ai camps/Cities in Electro And Prig
 Added 19 New backpacks
+
 added 4 new Modified Shotguns
 Roughly 400+ Weapons at our disposal, all not currently in loot tables
 160+ Vehicle types, not all set to spawn. 
+250+ vehicle spawn points.
 Increased Loot Spawns 
 Modified Zombie Behaviour
 Decreased Client Load for faster login time
@@ -21,12 +31,22 @@ Added 1 minor, and 1 Major Alien Missions
 Revised Vehicle,World Vehicle Tables. 
 Reduced Total amount of Vehicles on Map to increase Realism
 Increased Backpack storage
-Increased Tent and Stash Storage
+Increased Tent and Stash Storage 
 Modified Some Weapon mags
 98% New Weapons found at HbZ Custom COOP Missions, Ai Missions, and AI Bandits to prevent Barrack campers.
 Modified Vehicles - to increase Player, Magazine, Weapon, and Backpack Storage to increase Realism.
 Addons/Scripts info at http://www.hobuttz.com/addonsscripts-info/
+
 */
+In Progress
+
+Ambient Civilians, with chance to engage players
+Modified WP system
+Map Tranistions
+Custom GUI
+Modular weapoon attacthments
+Player/Merc Revive w\ Defibrillator
+
 
 /*
 Fixed
