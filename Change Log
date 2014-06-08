@@ -4,15 +4,16 @@ Dayz Ages 1.0.0
 
 /*
 New
-Interrogate,Detain actions
-Power Grid w/Remote Access, and Video surveillance.
-Added 1 Rideable Horse
+ESS Master Spawn Selection
+Halo Jump Training Zone
+
 */
 
 /*
 100% Working
-
-4 Uesable Riot Shields
+Interrogate,Detain,Search,Escort actions
+Power Grid w/Remote Access, and Video surveillance.
+Added 1 Rideable Horse
 4 new modified Shotguns
 CIM Combat Interface Module to Aid with Merc Control
 6 Mercs for Hire
@@ -20,11 +21,11 @@ Merc Recruitment Zones - Locations at humanity Camps
 New Exp/Lvl Up Achievement System
 Currency  Send/Receive/Bank system
 Weapon & Vehicle Dealers
-Added New Ai camps/Cities in Electro And Prig
+Added New Ai camps/Cities in Electro
 Added 19 New backpacks
 Roughly 400+ Weapons at our disposal, all not currently in loot tables
 160+ Vehicle types, not all set to spawn. 
-250+ vehicle spawn points.
+350+ vehicle spawn points.
 Increased Loot Spawns 
 Modified Zombie Behaviour
 Decreased Client Load for faster login time
