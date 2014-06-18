@@ -5,20 +5,20 @@ Sauerland still under construction. will be live soon.
 
 /*
 New
-BaseBuilding 1.3
-ESS Master Spawn Selection
-Halo Jump Training Zone
-
+Sauerland map Almost complete! will be ready for download soon.
 */
 
 /*
 100% Working
+BaseBuilding 1.3
+ESS Master Spawn Selection
+Halo Jump Training Zone
 Interrogate,Detain,Search,Escort actions
 Power Grid w/Remote Access, and Video surveillance.
 Added 1 Rideable Horse
 4 new modified Shotguns
 CIM Combat Interface Module to Aid with Merc Control
-6 Mercs for Hire
+6 Mercs for Hire +Customize there loadouts!
 Merc Recruitment Zones - Locations at humanity Camps
 New Exp/Lvl Up Achievement System
 Currency  Send/Receive/Bank system
@@ -54,6 +54,7 @@ Player/Merc Revive w\ Defibrillator
 /*
 Fixed
 
+Corrected Loot spawn points for Napf
 Tent and Stash Dupe.
 
 */
