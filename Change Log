@@ -5,6 +5,8 @@ Sauerland still under construction. will be live soon.
 
 /*
 New
+Increased BaseBuilding Mats
+Ai Recruits now atack Zombies!
 Sauerland map Almost complete! will be ready for download soon.
 */
 
@@ -53,7 +55,7 @@ Player/Merc Revive w\ Defibrillator
 
 /*
 Fixed
-
+Final Errors in Log- Increased overall performance
 Corrected Loot spawn points for Napf
 Tent and Stash Dupe.
 
